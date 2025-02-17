@@ -1,0 +1,13 @@
+Name,Class,Probability
+Positive_1,Opps! Diabetes,0.781
+Positive_2,Opps! Diabetes,0.697
+Positive_3,Opps! Diabetes,0.637
+Positive_4,Opps! Diabetes,0.708
+Positive_5,Opps! Diabetes,0.503
+Positive_6,Opps! Diabetes,0.568
+Negative_1,Non-diabetes,0.415
+Negative_2,Non-diabetes,0.282
+Negative_3,Non-diabetes,0.46
+Negative_4,Non-diabetes,0.234
+Negative_5,Non-diabetes,0.321
+Negative_6,Non-diabetes,0.432
