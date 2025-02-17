@@ -1,17 +1,20 @@
 <h1 align="center"> 
    REMED-T2D
-    <br>
-<h1>
+   <br>
+</h1>
 
 <h4 align="center">Standalone program for the paper "REMED-T2D: A robust ensemble learning model for early detection of type 2 diabetes using healthcare dataset"</h4>
 
 <p align="center">
-<a href=""><img src="https://img.shields.io/github/stars/Cobonla/REMED-T2D?" alt="stars"></a>
-<a href=""><img src="https://img.shields.io/github/forks/Cobonla/REMED-T2D?" alt="forks"></a>
-<a href="https://github.com/Cobonla/REMED-T2D/blob/main/LICENSE">
-  <img src="https://img.shields.io/github/license/Cobonla/REMED-T2D" alt="license">
+<a href="https://github.com/Cobonla/REMED-T2D/stargazers">
+  <img src="https://img.shields.io/github/stars/Cobonla/REMED-T2D?style=flat-square" alt="GitHub stars">
 </a>
-
+<a href="https://github.com/Cobonla/REMED-T2D/network/members">
+  <img src="https://img.shields.io/github/forks/Cobonla/REMED-T2D?style=flat-square" alt="GitHub forks">
+</a>
+<a href="https://github.com/Cobonla/REMED-T2D/blob/main/LICENSE">
+  <img src="https://img.shields.io/github/license/Cobonla/REMED-T2D?style=flat-square" alt="GitHub license">
+</a>
 </p>
 
 <p align="center">
