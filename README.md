@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/7c4671c9-2fb2-4df8-b6cc-36f3ec9fc209" width="1280"/>
+    <img src="https://github.com/user-attachments/assets/5211a939-d1ea-4c4d-9b75-fbad26f773cb" width="1280"/>
 </p>
 
 ## Abstract
