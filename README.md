@@ -9,6 +9,8 @@
 <a href=""><img src="https://img.shields.io/github/stars/Cobonla/REMED-T2D?" alt="stars"></a>
 <a href=""><img src="https://img.shields.io/github/forks/Cobonla/REMED-T2D?" alt="forks"></a>
 <a href=""><img src="https://img.shields.io/github/license/Cobonla/REMED-T2D?" alt="license"></a>
+<a href="https://doi.org/10.5281/zenodo.14886166">
+   <img src="https://zenodo.org/badge/doi/10.5281/zenodo.14886166.svg" alt="DOI">
 </p>
 
 <p align="center">
